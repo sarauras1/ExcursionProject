@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: "Verdana", sans-serif;
   color: white;
+  background-size: cover;
 }
 
 .cta {
